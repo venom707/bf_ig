@@ -1,6 +1,6 @@
 #!/bin/bash
-#author         : ./Lolz
-#thanks to      : JavaGhost - Bashid.org
+#author         : ./Rifangans
+#thanks to      : Allah swt - Bashid.org
 #recode tinggal recode aja okeh?, tapi cantumin source Y tolol h3h3
 #Yamaap kalau scriptnya acak"an:(
 
